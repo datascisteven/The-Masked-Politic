@@ -33,7 +33,7 @@ There is an improvement in model scoring metrics when including community mask h
 ## Folder Structure:
 ```
 ├── README.md                      <- The top-level README for reviewers of this project
-├── EDA_notebook.ipynb             <- Notebook for Data Cleaning, EDA, Feature Engineering, and Feature Selection
+├── EDA_notebook.ipynb             <- Data Cleaning, EDA, Feature Engineering/Selection
 ├── modeling_notebook.ipynb        <- notebook containing all elements of model
 ├── data                           <- dataset files
 └── images                         <- Both sourced externally and generated from code
