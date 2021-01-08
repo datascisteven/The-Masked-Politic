@@ -14,11 +14,11 @@ We definitely were data-driven in our efforts to clarify a project idea that enc
 
 As we sifted through the different datasets, we stumbled upon a mask wearing study conducted by New York Times. The image below illustrates what the data is able to demonstrate, which is by county an estimate of the likelihood you would encounter someone wearing a mask in the next 5 encounters based on a survey conducted back in July:
 
-<img src='fb_mask_data.png'>
+<img src='images/fb_mask_data.png'>
 
 While this dataset provides data on every county in the United States, his dataset only provides a snapshot at one very specific time of every county in the United States.  There is an ongoing study conducted by Carnegie Mellon facilitated by Facebook that captures data from the subset of individuals tthat use Facebook as a social platform, but also would be willing to complete a survey about COVID-19.
 
-<img src='delphi_dec.png'>
+<img src='images/delphi_dec.png'>
 
 ## Notebook Structure:
 - 
