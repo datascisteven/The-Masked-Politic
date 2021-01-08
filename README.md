@@ -42,6 +42,7 @@ There is an improvement in model scoring metrics when including community mask h
 ## Questions:
 Joe Marx—jmarx@hash.fyi
 - <a href='https://www.linkedin.com/in/joe-marx-260a64102/'>Joseph Marx</a>
+
 Steven Yan—stevenyan@uchicago.edu
 - <a href='https://www.linkedin.com/in/examsherpa/'>Steven Yan</a>
 
