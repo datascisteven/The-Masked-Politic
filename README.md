@@ -39,6 +39,12 @@ There is an improvement in model scoring metrics when including community mask h
 └── images                              <- Both sourced externally and generated from code
 ```
 
+## Questions:
+Joe Marx—jmarx@hash.fyi
+- <a href='https://www.linkedin.com/in/joe-marx-260a64102/'>Joseph Marx</a>
+Steven Yan—stevenyan@uchicago.edu
+- <a href='https://www.linkedin.com/in/examsherpa/'>Steven Yan</a>
+
 ## Sources
 
 Data from Delphi COVIDcast. Obtained via the Delphi Epidata API. 
@@ -52,3 +58,4 @@ https://www.kaggle.com/etsc9287/2020-general-election-polls
 
 Data from ArcGIS:
 https://opendata.arcgis.com/datasets/4cb598ae041348fb92270f102a6783cb_0.geojson
+
