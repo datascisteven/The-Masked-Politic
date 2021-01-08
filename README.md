@@ -32,6 +32,6 @@ While this dataset provides data on every county in the United States, his datas
 ## Folder Structure:
 - [images/]: Folder containing visualizations
 - [data/]: Folder containing 2020 election data, county data, and shape files for visualizations
-- <Phase_3_Project.ipynb>: Notebook for Data Cleaning, Exploratory Data Analysis, Feature Engineering, and Feature Selection
-- <the_masked_politician.ipynb>:  Notebook for Feature Selection, Modeling, and Data Analysis
+- <EDA_notebook.ipynb>: Notebook for Data Cleaning, Exploratory Data Analysis, Feature Engineering, and Feature Selection
+- <modeling_notebook.ipynb>:  Notebook for Feature Selection, Modeling, and Data Analysis
 - <Presentation.pptx>: Powerpoint for Presentation to Cohorts
