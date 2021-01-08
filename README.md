@@ -23,8 +23,9 @@ While this dataset provides data on every county in the United States, this data
 In parallel to this we looked through election data, interested in ways the results could be modeled. It was hypothesized that there is a correlation between how a person votes and their compliance with CDC and local health ordinances for wearing masks and social distancing. It became the objective of this project to be able to model that relationship through combining the datasets we had been exploring.
 
 ## Modeling Process
-After performing exploratory data analysis, the data we sourced required a bit of reconfiguring to appropriately merge, clean, and feature engineer. To test our hypothesis, we modeled in parallel a dataset with features conventionally used to predict on voting habits, and then a dataset with those baseline features plus the mask
-compliance data from the Carnegie Mellon study. Several classication models were used, with evaluation metrics available to allow for comparison of performance.
+After performing exploratory data analysis, the data we sourced required a bit of reconfiguring to appropriately merge, clean, and feature engineer. Data imputation was first attempted to see if a model could be built without collection more county-level data, but this proved inneffective since the available counties surveyed were both not randomly sampled and a minority of total counties.
+
+To test our hypothesis, we modeled in parallel a dataset with features conventionally used to predict on voting habits, and then a dataset with those baseline features plus the mask compliance data from the Carnegie Mellon study. Several classication models were used, with evaluation metrics available to allow for comparison of performance.
 
 ## Analysis and next steps:
 There is an improvement in model scoring metrics when including community mask habit features. The consistency of model improvement suggests that this data is worthwhile to gather for anyone interested in being able to model the 2020 election. With a dataset pipeline providing up-to-date data for each county in the country, a full model could be built and tested. If the pandemic is still active in 2022, the model could then be tested for predictive power in future elections as well.
@@ -40,8 +41,14 @@ There is an improvement in model scoring metrics when including community mask h
 
 ## Sources
 
-Data from Delphi COVIDcast. Obtained via the Delphi Epidata API. https://cmu-delphi.github.io/delphi-epidata/api/covidcast.html
+Data from Delphi COVIDcast. Obtained via the Delphi Epidata API. 
+https://cmu-delphi.github.io/delphi-epidata/api/covidcast.html
 
-Data from US Department of Agriculture https://www.ers.usda.gov/data-products/rural-urban-continuum-codes/documentation/#referencedate
+Data from US Department of Agriculture 
+https://www.ers.usda.gov/data-products/rural-urban-continuum-codes/documentation/#referencedate
 
-Data from Kaggle https://www.kaggle.com/etsc9287/2020-general-election-polls
+Data from Kaggle
+https://www.kaggle.com/etsc9287/2020-general-election-polls
+
+Data from ArcGIS:
+https://opendata.arcgis.com/datasets/4cb598ae041348fb92270f102a6783cb_0.geojson
