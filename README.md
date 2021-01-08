@@ -38,6 +38,7 @@ There is an improvement in model scoring metrics when including community mask h
 ├── EDA_notebook.ipynb             <- data cleaning, EDA, feature engineering/selection
 ├── modeling_notebook.ipynb        <- notebook containing all elements of model
 ├── data                           <- dataset files
+├── summary_presentation.pdf       <- a pdf of the project presentation
 └── images                         <- both sourced externally and generated from code
 ```
 
