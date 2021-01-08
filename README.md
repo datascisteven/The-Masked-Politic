@@ -3,6 +3,9 @@
 
 **Project Contributors**:  Joseph Marx, Steven Yan
 
+## Business Problem:
+Political polling has become more difficult in recent years to accurately predict election outcomes in the United States. These elections have dramatic implications for society and its citizens, and broader implications for the global community. Being able to accurately predict upcoming election results is a vaulable tool that can be leveraged by activists, non-profits, politicians, and businesses alike. Finding new indicators of political sentiment, ones that can kept up to data and make political election models more accurate, would add significant value to political pollsters.
+
 ## Business Proposal:
 - This project has been structured as a pitch to political analysts to fund a large scale survey of mask wearing habits. We intend to show a strong correlation between mask wearing in a given county and how the people of that county voted in the 2020 presidential election. Since the dataset we have to work with is limited to a proportion of counties in the nation, we are unable to test our model on the whole country, but with more resources to gather county-level data, we may be able to build an even stronger model and predict voting habits with greater accuracy than with traditional modeling features
 
