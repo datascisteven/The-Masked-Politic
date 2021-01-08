@@ -48,15 +48,15 @@ Steven Yan—stevenyan@uchicago.edu
 
 ## Sources
 
-Data from Delphi COVIDcast. Obtained via the Delphi Epidata API. 
+Data from Delphi COVIDcast. Obtained via the Delphi Epidata API. <br>
 https://cmu-delphi.github.io/delphi-epidata/api/covidcast.html
 
-Data from US Department of Agriculture 
+Data from US Department of Agriculture <br>
 https://www.ers.usda.gov/data-products/rural-urban-continuum-codes/documentation/#referencedate
 
-Data from Kaggle
+Data from Kaggle<br>
 https://www.kaggle.com/etsc9287/2020-general-election-polls
 
-Data from ArcGIS:
+Data from ArcGIS:<br>
 https://opendata.arcgis.com/datasets/4cb598ae041348fb92270f102a6783cb_0.geojson
 
