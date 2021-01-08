@@ -21,12 +21,13 @@ While this dataset provides data on every county in the United States, his datas
 <img src='images/delphi_dec.png'>
 
 
-
 ## Business Proposal:
+- discuss pilot study to explore voting behavior
 
 
 ## Notebook Structure:
-- 
+- wait until notebooks are updated tomorrow
+
 
 ## Folder Structure:
 - [images/]: Folder containing visualizations
