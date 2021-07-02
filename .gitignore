@@ -130,3 +130,7 @@ dmypy.json
 
 # Apple folder
 .DS_Store
+
+
+extra/
+
