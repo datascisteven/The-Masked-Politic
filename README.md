@@ -12,7 +12,7 @@ This project has been structured as a pitch to political analysts to fund a larg
 ## Data Collection:
 There are two existing studies that have explored or are exploring mask wearing through self-reporting. New York Times in conjunction with an outside firm conducted a one-time study in July asking respondents about how likely they are to wear mask in public settings. Through their analysis, they calculated an estimate by county an estimate of the likelihood you would encounter someone wearing a mask in the next 5 encounters based on a survey conducted back in July:
 
-<img src='images/fb_mask_data.png'>
+<center><iframe seamless frameborder='0' src="https://public.tableau.com/views/NYTMask-WearingStudyVisualization/FacebookMaskStudy?:display_count=n&:origin=viz_share_link" width='1366' height='795'></iframe></center>
 
 While this dataset provides data on every county in the United States, this dataset only provides a snapshot at one very specific time of every county in the United States.  
 
