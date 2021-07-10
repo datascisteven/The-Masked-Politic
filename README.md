@@ -18,7 +18,7 @@ While this dataset provides data on every county in the United States, this data
 
 There is an ongoing study being conducted by Carnegie Mellon and the same third-party firm delivered through the Facebook platform that captures county-level data about, among other things, mask-wearing behavior. It is worth realizing that one must be not only be willing to use the Facebook platform but also be willing to participate in a Facebook survey.  All models built therefrom have a built in assumption that the data weighted by the study facilitators appropriately accounts for this sampling method:
 
-<img src='images/delphi_dec.png'>
+<a href="https://public.tableau.com/views/COVIDCastMaskWearingVisualization/COVIDCast?:language=en-US&:display_count=n&:origin=viz_share_link"><img src="images/COVIDCast.png"></a>
 
 We looked into some databases that was able to address the different aspects of society that COVID has impacted, ranging from issues such as governance (i.e. declarations of state of emergencies and lockdowns), racial (i.e. racial disparities in cases and deaths, access to healthcare and testing), socio-economic (i.e. impact on food supply, impact on manfucturing, education, service, hospitality due to social distancing), and public health related (i.e. mask mandates, testing and contact tracing, vaccination rollout). 
 
