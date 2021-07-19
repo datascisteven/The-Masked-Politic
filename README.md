@@ -1,5 +1,5 @@
 # The Masked Politic
-![country](images/county_conf_by_pop.png)
+<a href="https://public.tableau.com/views/USElectionVisualizations/USElectionsByCounty?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"><img src="images/US Elections By County.png"></a>
 
 **Project Contributors**:  Joseph Marx, Steven Yan
 
